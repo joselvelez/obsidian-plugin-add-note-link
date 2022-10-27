@@ -1,0 +1,10 @@
+{
+	"id": "add-note-link",
+	"name": "Add Note Link",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Plugin that allows you to insert an 'Add Note' link within an existing note. The new note can be prepopulated with tags and saved to a specified folder.",
+	"author": "Jose L. Velez",
+	"authorUrl": "https://github.com/joselvelez",
+	"isDesktopOnly": false
+}
